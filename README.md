@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando na minha transição de profissão dev.
 - 🌱 Atualmente estou aprendendo Python, API Python, SQL.
 - 🤔 Estou procurando ajuda com os conhecimentos em Back-end para conquistar uma vaga de dev.
-- ⚡ Curiosidade: Professor de Jiu Jitsu, Crossfiter e amante de Games.
+- ⚡ Curiosidade: Professor de Jiu Jitsu, Crossfiter, amante de Games e do universo GEEk.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/>
